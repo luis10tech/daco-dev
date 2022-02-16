@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=4000&lines=fullStack+web+developer+;Always+learning+new+things)
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 
 I am passionate about technologies especially JavaScript based technologies, I am currently improving as a full stack developer and I love to build new things, I love to teach code and help in the community.
 
