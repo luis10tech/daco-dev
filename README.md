@@ -1,12 +1,13 @@
-### Hi therem 👋 <h1>I'm Daniel</h1>
+### Hi therem <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> <h1>I'm Daniel</h1> 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=4000&lines=fullStack+web+developer+;Always+learning+new+things)
 
-
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 I am passionate about technologies especially JavaScript based technologies, I am currently improving as a full stack developer and I love to build new things, I love to teach code and help in the community.
 
 - 👓 I'm currently working in my MERN Stack
+
 
  ### - Languages and Tools...🚀
 
@@ -31,8 +32,12 @@ I am passionate about technologies especially JavaScript based technologies, I a
 ![](https://img.shields.io/badge/figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
-
+<p align="left">
+  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/VSCode-3795fa.svg?style=for-the-badge&logo=visualstudiocode&logoColor=3795fa&labelColor=ffffff" alt="vscode"></a>
+  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/Sublime text-ff8000.svg?style=for-the-badge&logo=sublime text&logoColor=ff8000&labelColor=ffffff" alt="sublime"></a>
+  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/NeoVim-008f39.svg?style=for-the-badge&logo=neovim&logoColor=008f39&labelColor=ffffff" alt="neovim"></a>
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/linux-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
+</p><br>
 
 
 ## How to reach me 🌎
@@ -45,10 +50,3 @@ I am passionate about technologies especially JavaScript based technologies, I a
 
 
 
-<p align="center">
-<a href="https://github.com/priyanshumay">
-<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
-</a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/arch-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
-</p><br>
