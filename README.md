@@ -1,13 +1,8 @@
 ### Hi therem <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> <h1>I'm Daniel</h1> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=4000&lines=fullStack+web+developer+;Always+learning+new+things)
-
-
-
 I am passionate about technologies especially JavaScript based technologies, I am currently improving as a full stack developer and I love to build new things.
 
 - 👓 I'm currently working in my MERN Stack
-
 
 <p align="left">
   <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/VSCode-3795fa.svg?style=for-the-badge&logo=visualstudiocode&logoColor=3795fa&labelColor=ffffff" alt="vscode"></a>
