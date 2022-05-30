@@ -4,7 +4,7 @@
 
 
 
-I am passionate about technologies especially JavaScript based technologies, I am currently improving as a full stack developer and I love to build new things, I love to teach code and help in the community.
+I am passionate about technologies especially JavaScript based technologies, I am currently improving as a full stack developer and I love to build new things.
 
 - 👓 I'm currently working in my MERN Stack
 
