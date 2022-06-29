@@ -6,7 +6,6 @@ I am passionate about technologies especially JavaScript based technologies, I a
 
 <p align="left">
   <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/VSCode-3795fa.svg?style=for-the-badge&logo=visualstudiocode&logoColor=3795fa&labelColor=ffffff" alt="vscode"></a>
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/Sublime text-ff8000.svg?style=for-the-badge&logo=sublime text&logoColor=ff8000&labelColor=ffffff" alt="sublime"></a>
   <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/NeoVim-008f39.svg?style=for-the-badge&logo=neovim&logoColor=008f39&labelColor=ffffff" alt="neovim"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/linux-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
 </p><br>
