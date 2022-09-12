@@ -12,13 +12,12 @@ I love to make projects to increase my technical skills and keep learning about 
 
 ## My stack technologies
 
+
 | Frontend | Backend | Dev tools |
 |----------|---------|-----------|
-| [](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png) |
-
-
-
-
+|React.js, Bulma|Node.js, Express.js|Docker, linux
+|sass, bootstrap|PostgreSQl, MongoDb |
+---
 ## How to reach me 🌎
 * [Linkedin](https://www.linkedin.com/in/daniel-colmenares-7b9359204/)
 * [Twitter](https://twitter.com/DanielC1805)
