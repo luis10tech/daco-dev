@@ -1,4 +1,4 @@
-### Hi there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <h1>I'm Daniel</h1> 
+### Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <h1>I'm Daniel</h1> 
 
 I am passionate about technologies especially JavaScript based technologies, I am currently improving as a full stack developer and I love to build new things.
 
