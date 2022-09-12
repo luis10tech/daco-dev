@@ -4,11 +4,6 @@ I am passionate about technologies especially JavaScript based technologies, I a
 
 - 👓 I'm currently working in my MERN Stack
 
-<p align="left">
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/VSCode-3795fa.svg?style=for-the-badge&logo=visualstudiocode&logoColor=3795fa&labelColor=ffffff" alt="vscode"></a>
-  <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/NeoVim-008f39.svg?style=for-the-badge&logo=neovim&logoColor=008f39&labelColor=ffffff" alt="neovim"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/linux-0066cc.svg?style=for-the-badge&logo=arch-linux&logoColor=0066cc&labelColor=ffffff" alt="arch-linux"></a>
-</p><br>
 
 <img src="https://raw.githubusercontent.com/artart222/artart222/output/github-contribution-grid-snake.svg">
 
