@@ -12,6 +12,11 @@ I love to make projects to increase my technical skills and keep learning about 
 
 ## My stack technologies
 
+| Frontend | Backend | Dev tools |
+|----------|---------|-----------|
+| [](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png) |
+
+
 
 
 ## How to reach me 🌎
