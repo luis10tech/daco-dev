@@ -2,6 +2,8 @@
 
 I am passionate about technologies especially JavaScript based technologies, I am currently improving as a full stack developer and I love to build new things.
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 ## My Projects
 I love to make projects to increase my technical skills and keep learning about new technologies. Here are some of my best projects.
 
