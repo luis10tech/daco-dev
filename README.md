@@ -19,6 +19,4 @@ I am passionate about technologies especially web based technologies.
 ## How to reach me 🌎
 * <a href="https://www.linkedin.com/in/daco-raw" target="_blank">Linkedin</a>
 * <a href="https://twitter.com/daco_raw" target="_blank">Twitter</a>
-* <a href="" target="_blank">Email</a>
-
-* [ldanielcolmenaresm@gmail.com]()
+* <a href="https://gmail.com" target="_blank">Email</a>
