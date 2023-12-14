@@ -7,7 +7,6 @@ I am passionate about technologies especially web based technologies.
  ✨ Interested in UX Designing, Web & Software Developing and Machine learning.<br>
  💬 Ask me about Anything.<br>
 
-<br>
 
 ## My stack technologies
 
