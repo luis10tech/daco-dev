@@ -17,8 +17,8 @@ I am passionate about technologies especially web based technologies.
 |TailwindCss|MySql, PostgreSQl, MongoDb, Redis| linux, bashScript
 ---
 ## How to reach me 🌎
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
+* <a href="https://www.linkedin.com/in/daco-raw" target="_blank">Linkedin</a>
+* <a href="https://twitter.com/daco_raw" target="_blank">Twitter</a>
+* <a href="" target="_blank">Email</a>
 
-* [Linkedin](https://www.linkedin.com/in/daco-raw)
-* [Twitter](https://twitter.com/daco_raw)
 * [ldanielcolmenaresm@gmail.com]()
