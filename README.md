@@ -7,14 +7,15 @@ I am passionate about technologies especially web based technologies.
  ✨ Interested in UX Designing, Web & Software Developing and Machine learning.<br>
  💬 Ask me about Anything.<br>
 
-<br><br>
+<br>
 
 ## My stack technologies
 
 | Frontend | Backend | Dev tools |
 |----------|---------|-----------|
-|React.js, Astro|Express.js, Spring Boot|Docker, Kubernetes
-|TailwindCss|PostgreSQl, MongoDb, Redis| linux, bashScript
+|Html, Css, Sass|Node.js, Java, Python|Docker, Kubernetes
+|React.js, Angular, Astro| Express.js, Spring Boot| AWS, GCP
+|TailwindCss|MySql, PostgreSQl, MongoDb, Redis| linux, bashScript
 ---
 ## How to reach me 🌎
 * [Linkedin](https://www.linkedin.com/in/daco-raw)
