@@ -14,7 +14,7 @@ I am passionate about technologies especially web based technologies.
 | Frontend | Backend | Dev tools |
 |----------|---------|-----------|
 |Html, Css, Sass|Node.js, Java, Python|Docker, Kubernetes
-|React.js, Angular, Astro| Express.js, Spring Boot| AWS, GCP
+|React.js, Next.js Angular, Astro| Express.js, Spring Boot| AWS, GCP
 |TailwindCss|MySql, PostgreSQl, MongoDb, Redis| linux, bashScript
 ---
 ## How to reach me 🌎
