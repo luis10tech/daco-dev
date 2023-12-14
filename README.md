@@ -1,8 +1,8 @@
-### Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <h1>I'm Daniel</h1>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=FullStack%20Developer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
+#### Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <h1>I'm Daniel</h1>
 
 I am passionate about technologies especially web based technologies.
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=FullStack%20Developer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 ## My stack technologies
 
