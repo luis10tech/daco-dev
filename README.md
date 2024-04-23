@@ -11,7 +11,7 @@ I am passionate about technologies especially web based technologies.
 ## My stack technologies
 
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></img>
-
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></img>
 ---
 ## How to reach me 🌎
 * <a href="https://www.linkedin.com/in/luiss-bit/" target="_blank">Linkedin</a>
