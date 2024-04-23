@@ -1,11 +1,11 @@
-#### Hey there! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <h1>I'm Daniel</h1>
+#### Hola! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <h1>Soy Daniel</h1>
 
-I am passionate about technologies especially web based technologies.
+Me apasionan las tecnologías, especialmente las basadas en la web.
 
- 🔭 I’m currently working mainly on Wellallies. <br>
- 🤝 I’m always ready to collaborate on Open-source & Start-up projects.<br>
- ✨ Interested in UX Designing, Web & Software Developing and Machine learning.<br>
- 💬 Ask me about Anything.<br>
+ 🔭 Actualmente estoy trabajando en CADS. <br>
+ 🤝 Siempre estoy dispuesto a colaborar en proyectos de código abierto y start-up. <br>
+ ✨ Interesado en UX Designing, Web & Software Developing y Machine learning. <br>
+ 💬 Pregúntame sobre <br>
 
 
 ## My stack technologies
