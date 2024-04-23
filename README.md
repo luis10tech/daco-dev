@@ -10,7 +10,7 @@ I am passionate about technologies especially web based technologies.
 
 ## My stack technologies
 
-<img href="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></img>
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></img>
 
 ---
 ## How to reach me 🌎
