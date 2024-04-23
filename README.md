@@ -5,7 +5,7 @@ Me apasionan las tecnologías, especialmente las basadas en la web.
  🔭 Actualmente estoy trabajando en CADS. <br>
  🤝 Siempre estoy dispuesto a colaborar en proyectos de código abierto y start-up. <br>
  ✨ Interesado en UX Designing, Web & Software Developing y Machine learning. <br>
- 💬 Pregúntame sobre <br>
+ 💬 Pregúntame sobre <b>Js</b>, <b>Node</b>, <b>Angular</b> <br>
 
 
 ## My stack technologies
