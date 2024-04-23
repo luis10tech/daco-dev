@@ -11,6 +11,7 @@ I am passionate about technologies especially web based technologies.
 ## My stack technologies
 
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></img>
+<img src="https://cdn.icon-icons.com/icons2/2148/PNG/48/nextjs_icon_132160.png"></img>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></img>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></img>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></img>
