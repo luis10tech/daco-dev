@@ -18,7 +18,7 @@ I am passionate about technologies especially web based technologies.
 <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></img>
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></img>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></img>
+
 
 
 ---
